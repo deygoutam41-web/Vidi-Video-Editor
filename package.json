@@ -1,0 +1,9 @@
+{
+  "name": "vidi-video-editor",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Browser-based Vidi Video Editor MVP",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
